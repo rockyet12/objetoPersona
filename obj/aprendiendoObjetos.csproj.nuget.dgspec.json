@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/et12alumno/miclase/objetoPersona/aprendiendoObjetos.csproj": {}
+    "C:\\Users\\Roque\\objetoPersona\\aprendiendoObjetos.csproj": {}
   },
   "projects": {
-    "/home/et12alumno/miclase/objetoPersona/aprendiendoObjetos.csproj": {
+    "C:\\Users\\Roque\\objetoPersona\\aprendiendoObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/et12alumno/miclase/objetoPersona/aprendiendoObjetos.csproj",
+        "projectUniqueName": "C:\\Users\\Roque\\objetoPersona\\aprendiendoObjetos.csproj",
         "projectName": "aprendiendoObjetos",
-        "projectPath": "/home/et12alumno/miclase/objetoPersona/aprendiendoObjetos.csproj",
-        "packagesPath": "/home/et12alumno/.nuget/packages/",
-        "outputPath": "/home/et12alumno/miclase/objetoPersona/obj/",
+        "projectPath": "C:\\Users\\Roque\\objetoPersona\\aprendiendoObjetos.csproj",
+        "packagesPath": "C:\\Users\\Roque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Roque\\objetoPersona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/et12alumno/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Roque\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
